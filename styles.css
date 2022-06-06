@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(218, 195, 231);
+}
+h1{
+    
+    display: inline, flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    vertical-align: top;
+}
+
+img {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#coolHeader {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#contactInfo {
+    color:rgb(14, 78, 55)
+}
+#pic {
+    width: 40%;
+    height: auto;
+}
